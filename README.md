@@ -5,5 +5,3 @@ The Repository contains various Jupyter notebooks with Machine learning models f
 
 Please feel free to suggest any algorithms that you wish to see in this repository.
 
-## Collaborators
-* [Karthik](https://github.com/karthickdil/)
